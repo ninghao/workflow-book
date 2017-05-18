@@ -10,12 +10,12 @@
 
 在 Node.js 的官网可以下载适合在不同操作系统上使用的 Node.js 。 它的版本也很多（6.x，7.x ... ），有时我们可能需要为不同的项目使用不同版本的 Node.js，所以推荐使用 nvm 这个小工具来管理安装在系统上的 Node.js ，它可以在不同的 Node.js 版本中来回切换。
 
-macOS
+### macOS
 
 安装 nvm：
 
 ```
-
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
 ```
 
 [https://github.com/creationix/nvm](https://github.com/creationix/nvm)
