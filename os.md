@@ -2,6 +2,12 @@
 
 你可以在任何主流操作系统下去做开发工作，Windows，macOS，Linux 都可以。如果选择 Windows ，版本最好选择 Windows 10 专业版。用 macOS 的用户不用太担心系统问题，可以无痛并免费升级，现在你应该用的是 Sierra 这个版本的 macOS 。Linux 也可以，比如 Ubuntu 的桌面版。
 
+如果你能满足下面三个条件的其中一个，这个任务就算完成了：
+
+1. Windows 10 专业版 +
+2. macOS Sierra +
+3. Ubuntu 桌面版
+
 ## Windows
 
 PC 机上的操作系统一般是 Windows，推荐使用 Windows 10 专业版 + ，因为有些开发工具对系统版本有要求。
