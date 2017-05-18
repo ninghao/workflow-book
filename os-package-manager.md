@@ -18,7 +18,21 @@ chocolatey 是用在 Windows 上的系统包管理工具。
 Set-ExecutionPolicy AllSigned or Set-ExecutionPolicy Bypass
 ```
 
+**安装 chocolatery**
 
+再执行下面命令安装 chocolatery：
+
+```
+iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
+
+**测试**
+
+安装完成以后你应该可以使用 choco 命令去管理系统上的软件包。
+
+```
+choco --help
+```
 
 
 
