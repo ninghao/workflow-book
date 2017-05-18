@@ -17,7 +17,7 @@ Chrome 是 Google 做的浏览器。
 用 chocolatey 安装 Chrome：
 
 ```
-choco install chrome
+choco install googlechrome
 ```
 
 **macOS**
