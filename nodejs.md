@@ -34,6 +34,16 @@ command -v nvm
 nvm install node
 ```
 
+系统上先有个能用的 Node.js 就可以了，以后我们可能会安装其它版本的 Node.js，或者配置项目使用不同版本的 Node.js。
+
+**验证 node：**
+
+```
+node --version
+```
+
+上面的命令会返回系统上正在使用的 Node.js 的版本号。
+
 [https://github.com/creationix/nvm](https://github.com/creationix/nvm)
 
 [https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
