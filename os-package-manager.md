@@ -6,6 +6,18 @@
 
 chocolatey 是用在 Windows 上的系统包管理工具。
 
+### 安装
+
+打开 Windows 系统的命令行界面，可以之前安装的 cmder ，用 Powershell ad Admin 这种模式创建一个 cmder 标签，然后在上面可以执行安装 chocolatey 。
+
+**修改安全策略**
+
+安装之前先修改一下系统的安全策略，执行：
+
+```
+Set-ExecutionPolicy AllSigned or Set-ExecutionPolicy Bypass
+```
+
 
 
 
