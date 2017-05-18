@@ -6,5 +6,27 @@
 
 Atom 编辑器开源，跨平台，在我的课程里用的就是这款编辑器。
 
-https://atom.io/
+[https://atom.io/](https://atom.io/)
+
+### 安装
+
+在 Atom 的官方网站，你可以下载跟自己用的操作系统对应 Atom 。也可以使用系统包管理工具去安装 Atom 。
+
+**Windows**
+
+用 chocolatery 安装 Atom：
+
+```
+choco install atom
+```
+
+**macOS**
+
+用 Homebrew 安装 Atom：
+
+```
+brew install Caskroom/cask/atom
+```
+
+
 
