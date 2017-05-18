@@ -5,4 +5,5 @@
 * [操作系统](os.md)
 * [编辑器](editor.md)
 * [系统包管理](os-package-manager.md)
+* [命令行](ming-ling-xing.md)
 
