@@ -4,4 +4,5 @@
 * [任务](task.md)
 * [操作系统](os.md)
 * [编辑器](editor.md)
+* [系统包管理](xi-tong-bao-guan-li.md)
 
