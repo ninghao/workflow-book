@@ -28,5 +28,15 @@ choco install atom
 brew install Caskroom/cask/atom
 ```
 
+### 配置
+
+macOS 用 command + ,  这个快捷键可以打开 Atom 编辑器的配置界面。
+
+### 扩展
+
+打开 Atom 的配置界面，在打开 Install 标签，这里可以安装 Package ，也就是 Atom 编辑器的扩展包。你可以在这个界面上搜索想要安装的 Packages 或者 Themes ，Themes 是编辑器的主题。
+
+
+
 
 
