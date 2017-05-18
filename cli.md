@@ -6,3 +6,9 @@
 
 下载完整版的 cmder，它里面包含了很多 Windows 上不具备的工具。用 cmder 可以代替 Windows 系统上自带的 cmd 与 Powershell 命令行界面。
 
+## macOS
+
+用系统自带的终端（Terminal），或者下载安装 iTerm。
+
+
+
