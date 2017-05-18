@@ -44,7 +44,21 @@ node --version
 
 上面的命令会返回系统上正在使用的 Node.js 的版本号。
 
-[https://github.com/creationix/nvm](https://github.com/creationix/nvm)
+[https://github.com/creationix/nvm](#)
+
+### Windows
+
+也有一个适用在 Windows 系统上的 nvm，安装前你需要先删除掉之前安装在系统上的 Node.js，卸载以后，如果安装目录还存在，你需要手工把这个目录删除掉。还有用 npm 的安装目录也需要删除掉，一般是在 C:\Users&lt;user&gt;\AppData\Roaming\npm 。
+
+**安装 nvm：**
+
+https://github.com/coreybutler/nvm-windows/releases
+
+**安装 node：**
+
+```
+nvm install node
+```
 
 [https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
 
