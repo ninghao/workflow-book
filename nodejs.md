@@ -52,7 +52,7 @@ node --version
 
 **安装 nvm：**
 
-https://github.com/coreybutler/nvm-windows/releases
+[https://github.com/coreybutler/nvm-windows/releases](https://github.com/coreybutler/nvm-windows/releases)
 
 **安装 node：**
 
@@ -61,4 +61,8 @@ nvm install node
 ```
 
 [https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+
+## 结语
+
+我推荐使用 nvm 安装管理系统上的 Node.js，是因为很可能会用到不同版本的 Node.js。不过如果你嫌麻烦，直接在 Node.js 的官网上下载并安装某个版本的 Node.js 也行。不管怎样，你的系统上至少要有一个可用的 Node.js。
 
