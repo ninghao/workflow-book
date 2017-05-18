@@ -12,10 +12,26 @@
 
 ### macOS
 
-安装 nvm：
+**安装 nvm：**
 
 ```
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+```
+
+**验证安装：**
+
+```
+command -v nvm
+```
+
+如果返回 `nvm` ，说明已经安装成功了。
+
+**安装 node：**
+
+用 nvm 安装 node：
+
+```
+nvm install node
 ```
 
 [https://github.com/creationix/nvm](https://github.com/creationix/nvm)
