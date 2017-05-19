@@ -1,13 +1,35 @@
 # Summary
 
+## 前奏
+
 * [介绍](README.md)
 * [任务](task.md)
+
+## 准备
+
 * [操作系统](os.md)
 * [Xcode](xcode.md)
 * [命令行](cli.md)
-* [系统包管理](os-package-manager.md)
-* [编辑器](editor.md)
-* [浏览器](browser.md)
+* [ssh-key](ssh-key.md)
 * [版本控制](version-control.md)
+
+## 编辑器
+
+* [编辑器](editor.md)
+
+## 浏览器
+
+* [浏览器](browser.md)
+
+## 系统包管理
+
+* [系统包管理](os-package-manager.md)
+
+## Node.js
+
 * [Node.js](nodejs.md)
+
+## 附录
+
+* [相关资源](resources.md)
 

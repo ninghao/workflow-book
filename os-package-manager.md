@@ -58,5 +58,9 @@ Homebrew 是用在 macOS 上的系统包管理工具。
 brew --help
 ```
 
+---
+
+1. 视频：[Homebrew](https://ninghao.net/video/4570?a=51729)
+
 
 
