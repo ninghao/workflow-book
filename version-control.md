@@ -24,5 +24,9 @@ Windows 系统，我推荐下载完整版的 cmder，它里面本身就包含了
 brew install git
 ```
 
+---
+
+1. [安装配置使用 git](https://ninghao.net/video/4571?a=51729)
+
 
 
