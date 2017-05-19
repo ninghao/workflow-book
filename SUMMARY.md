@@ -12,8 +12,21 @@
 * [命令行](cli.md)
 * [ssh-key](ssh-key.md)
 * [版本控制](version-control.md)
-* [系统包管理](os-package-manager.md)
+
+## 编辑器
+
 * [编辑器](editor.md)
+
+## 浏览器
+
+* [浏览器](browser.md)
+
+## 系统包管理
+
+* [系统包管理](os-package-manager.md)
+
+## Node.js
+
 * [Node.js](nodejs.md)
 
 ## 附录
