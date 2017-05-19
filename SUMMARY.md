@@ -28,6 +28,7 @@
 ## Node.js
 
 * [Node.js](nodejs.md)
+* [npm](npm.md)
 
 ## 附录
 
