@@ -28,7 +28,7 @@
 ## Node.js
 
 * [Node.js](nodejs.md)
-* [Node.js 包管理](npm.md)
+* [Node.js 包管理](nodejs-package-manager.md)
 
 ## 附录
 
