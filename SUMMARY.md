@@ -4,7 +4,6 @@
 
 * [介绍](README.md)
 * [任务](task.md)
-* [相关资源](xiang-guan-zi-yuan.md)
 
 ## 准备
 
@@ -18,4 +17,6 @@
 * [Node.js](nodejs.md)
 
 ## 附录
+
+* [相关资源](resources.md)
 
