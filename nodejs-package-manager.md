@@ -6,27 +6,17 @@
 
 有的包可以在服务端使用，有些是命令行工具，也有很多包可以用在前端，也就是直接在浏览器上去用。在你的项目里去，可以直接使用一些现成的包。你也可以创建自己的包，跟别人共享，或者只在自己团队的内部使用。
 
+在项目里管理 Node.js 的包可以使用 npm 或 yarn。
 
+## npm
 
-Node.js 的 Packages
+npm（Node Package Manager），是一个包管理工具。安装了 Node.js 以后，会自带这个包管理工具。
 
+[https://www.npmjs.com/](https://www.npmjs.com/)
 
+### Yarn
 
-npm 是为 JavaScript 准备的一个包管理工具，也就是你可以使用它跟其它人共享你写的 JavaScript 代码，或者使用别人已经写好的一些代码。
+Yarn 是可以代替 npm 的又一个 Node.js 包管理工具，它比 npm 更快更安全。
 
-
-
-npm 是 node package manager 的简称。node 表示 nodeJS ...  package 是包的意思，也可以叫作模块。一个 package 可能会有一个特定的功能，在 NPM 网站上你可以找到很多现成的 package。
-
-
-
-
-
-
-
-
-
-https://www.npmjs.com/
-
-https://yarnpkg.com
+[https://yarnpkg.com](https://yarnpkg.com)
 
