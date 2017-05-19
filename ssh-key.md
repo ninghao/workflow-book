@@ -42,7 +42,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3V80xP8acswtv8OMpsjWGk3BsHiajtAYk/4suPkwv
 
 ## 用户
 
-要注意的是，你生成的这个 ssh-key 只对你当前登录到系统上的这个用户有效。因为服务在验证你身份的时候，会检查你当前登录到系统上的这个用户的主目录下的 .ssh 里面的 ssh-key 。比如，你当前登录到系统上的用户名是 wanghao，他的 ssh-key 的位置应该是 `C:\Users\wanghao\.ssh`，macOS 上应该是 `/Users/wanghao`。系统里的其他用户也应该在他的主目录下的 .ssh 目录里面有个 ssh-key，比如 xiaoxue，她的 ssh-key 的位置应该是 `C:\Users\xiaoxue\.ssh`，macOS 上应该是在 `/Users/xiaoxue` 。
+要注意的是，你生成的这个 ssh-key 只对你当前登录到系统上的这个用户有效。因为服务在验证你身份的时候，会检查你当前登录到系统上的这个用户的主目录下的 .ssh 里面的 ssh-key 。比如，你当前登录到系统上的用户名是 wanghao，他的 ssh-key 的位置应该是 `C:\Users\wanghao\.ssh`，macOS 上应该是 `/Users/wanghao/.ssh`。系统里的其他用户也应该在他的主目录下的 .ssh 目录里面有个 ssh-key，比如 xiaoxue，她的 ssh-key 的位置应该是 `C:\Users\xiaoxue\.ssh`，macOS 上应该是在 `/Users/xiaoxue/.ssh` 。
 
 ## 过程
 
