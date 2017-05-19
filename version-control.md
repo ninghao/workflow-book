@@ -26,7 +26,7 @@ brew install git
 
 ---
 
-1. [安装配置使用 git](https://ninghao.net/video/4571?a=51729)
+1. 视频：[安装配置使用 git](https://ninghao.net/video/4571?a=51729)
 
 
 
