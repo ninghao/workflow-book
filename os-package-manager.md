@@ -60,7 +60,7 @@ brew --help
 
 ---
 
-1. [Homebrew](https://ninghao.net/video/4570?a=51729) 视频
+1. 视频：[Homebrew](https://ninghao.net/video/4570?a=51729)
 
 
 
