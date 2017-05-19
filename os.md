@@ -1,6 +1,12 @@
 # 操作系统
 
-你可以在任何主流操作系统下去做开发工作，Windows，macOS，Linux 都可以。
+你可以在任何主流操作系统下去做开发工作，Windows，macOS，Linux 都可以。如果选择 Windows ，版本最好选择 Windows 10 专业版。用 macOS 的用户不用太担心系统问题，可以无痛并免费升级，现在你应该用的是 Sierra 这个版本的 macOS 。Linux 也可以，比如 Ubuntu 的桌面版。
+
+如果你能满足下面三个条件的其中一个，这个任务就算完成了：
+
+1. Windows 10 专业版 +
+2. macOS Sierra +
+3. Ubuntu 桌面版
 
 ## Windows
 
@@ -17,6 +23,4 @@ Linux 有很多发行版，有些版本适合用在服务器上，有些版本�
 ## 结语
 
 宁皓网的课程基本上都是在 macOS 平台下完成的，但是方法适用所有平台，因为课程里用的大部分工具都是跨平台的。别纠结，用你最熟悉，最喜欢的系统，马上进入学习。
-
-[https://ninghao.net/blog/3502](https://ninghao.net/blog/3502)
 
