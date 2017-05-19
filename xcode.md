@@ -6,7 +6,7 @@ Xcode 是开发 iOS，watchOS，macOS 用的 SDK，里面有些工具也经常�
 
 ---
 
-1. [Xcode](https://ninghao.net/video/4566?a=51729)
+1. 视频：[Xcode](https://ninghao.net/video/4566?a=51729)
 
 
 
