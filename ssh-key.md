@@ -75,5 +75,9 @@ $ ls ~/.ssh
 id_rsa  id_rsa.pub
 ```
 
+---
+
+1. [生成一对 ssh 密钥](https://ninghao.net/video/4572?a=51729)
+
 
 
