@@ -24,6 +24,17 @@ Windows 系统，我推荐下载完整版的 cmder，它里面本身就包含了
 brew install git
 ```
 
+### 配置
+
+告诉 git 你是谁，你的邮件地址是什么，这个邮件地址也应该是你在一些 git 服务商（比如：github，coding.net）那里注册帐号用的。
+
+```
+git config --global user.name 'wanghao'
+git config --global user.email 'wanghao@ninghao.net'
+```
+
+上面两条命令，是在全局范围（`--global`）配置一下 git，设置了 `user.name` 用户名，还有 `user.email`  用户的邮件地址。以后你用 git 对项目做的提交（commit）里面都会自动包含这些配置信息。
+
 ---
 
 1. 视频：[安装配置使用 git](https://ninghao.net/video/4571?a=51729)
