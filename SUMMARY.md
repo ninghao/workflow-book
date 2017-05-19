@@ -4,6 +4,7 @@
 
 * [介绍](README.md)
 * [任务](task.md)
+* [相关资源](xiang-guan-zi-yuan.md)
 
 ## 准备
 
@@ -15,4 +16,6 @@
 * [系统包管理](os-package-manager.md)
 * [编辑器](editor.md)
 * [Node.js](nodejs.md)
+
+## 附录
 
