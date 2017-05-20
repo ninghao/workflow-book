@@ -69,7 +69,7 @@ brew search wget
 wget wgetpaste
 ```
 
-再确实一下找到的 wget 就是我想要用的东西：
+再确定一下找到的 wget 就是我想要用的东西：
 
 ```
 brew info wget
