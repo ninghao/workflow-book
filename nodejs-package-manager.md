@@ -230,3 +230,10 @@ echo 'hello' >> index.html
 
 一切正常的话，你应该会在浏览器上看到项目下面的 index.html 文档里的内容，显示内容用的服务器就是用 Browsersync 创建的。
 
+---
+
+1. [Yarn：Node.js 包管理工具](https://ninghao.net/video/4702?a=51729)
+2. [npm 包管理](https://ninghao.net/course/3421?a=51729)
+
+
+
