@@ -97,7 +97,7 @@ wget --help
 
 ---
 
-1. Homebrew 视频
+1. [Homebrew 视频](https://ninghao.net/video/4570?a=51729)
 
 
 
