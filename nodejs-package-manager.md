@@ -232,8 +232,8 @@ echo 'hello' >> index.html
 
 ---
 
-1. [Yarn：Node.js 包管理工具](https://ninghao.net/video/4702?a=51729)
-2. [npm 包管理](https://ninghao.net/course/3421?a=51729)
+1. 视频：[Yarn：Node.js 包管理工具](https://ninghao.net/video/4702?a=51729)
+2. 课程：[npm 包管理](https://ninghao.net/course/3421?a=51729)
 
 
 
