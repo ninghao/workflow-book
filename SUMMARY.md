@@ -4,7 +4,7 @@
 
 * [介绍](README.md)
 * [任务](task.md)
-* Chrome
+* [Chrome](chrome.md)
 
 ## 准备
 
