@@ -4,7 +4,6 @@
 
 * [介绍](README.md)
 * [任务](task.md)
-* [Atom](atom.md)
 
 ## 准备
 
@@ -17,6 +16,7 @@
 ## 编辑器
 
 * [编辑器](editor.md)
+* [Atom](atom.md)
 
 ## 浏览器
 
