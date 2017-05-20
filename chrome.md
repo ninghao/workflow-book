@@ -26,15 +26,15 @@ brew install Caskroom/cask/google-chrome
 
 ## 开发者工具
 
-打开
+打开开发者工具：
 
-Windows：`ctrl`  `shift` `I`
+* Windows：`ctrl`  `shift` `I`
+* macOS：`command`  `alt` `I`
 
-macOS：`command`  `alt` `I`
+打开开发者工具，定位到控制台：
 
-控制台
+* Windows：`ctrl`  `shift`  `J`
+* macOS： `command` `alt` `J`
 
-Windows：`ctrl`  `shift`  `J`
 
-macOS： `command` `alt` `J`
 
