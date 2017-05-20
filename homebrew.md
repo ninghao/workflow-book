@@ -40,6 +40,12 @@ brew search 关键词
 brew install 包的名字
 ```
 
+升级可以执行：
+
+```
+brew upgrade 包的名字
+```
+
 删除使用 Homebrew 安装的软件，用的是：
 
 ```
