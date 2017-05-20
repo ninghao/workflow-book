@@ -24,8 +24,8 @@
 ## 系统包管理
 
 * [系统包管理](os-package-manager.md)
-* [macOS：Homebrew](macosff1a-shi-yong-homebrew-guan-li-ruan-jian-bao.md)
-* [Windows：Chocolatey](windowschocolatey.md)
+* [macOS：Homebrew](homebrew.md)
+* [Windows：Chocolatey](chocolatey.md)
 
 ## Node.js
 
