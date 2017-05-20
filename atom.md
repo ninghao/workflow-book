@@ -29,7 +29,7 @@ brew install Caskroom/cask/atom
 用快捷键打开 Atom 编辑器的配置界面。
 
 * Windows：`ctrl`  `,`  
-* macOS 用 `command`  `,` 
+* macOS： `command`  `,` 
 
 ## 扩展
 
