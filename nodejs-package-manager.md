@@ -14,6 +14,26 @@ npm（Node Package Manager），是一个包管理工具。安装了 Node.js 以
 
 [https://www.npmjs.com/](https://www.npmjs.com/)
 
+### 安装源
+
+你可以选择使用 npm 安装的包的来源，在国内，你可以把这个来源设置成国内服务商提供的安装来源。先去安装一个 nrm 工具：
+
+```
+npm install --global nrm
+```
+
+查看可用的来源：
+
+```
+nrm ls
+```
+
+把来源设置成国内的 taobao，这样安装包的时候速度会快一些：
+
+```
+nrm use taobao
+```
+
 ### Yarn
 
 Yarn 是可以代替 npm 的又一个 Node.js 包管理工具，它比 npm 更快更安全。
@@ -34,6 +54,14 @@ choco install yarn
 
 ```
 brew install yarn
+```
+
+### 安装源
+
+你可以设置使用 Yarn 安装包的时候使用的来源。在国内可以设置成国内服务提供的安装来源：
+
+```
+yarn config set registry https://registry.npm.taobao.org
 ```
 
 ## 创建项目
