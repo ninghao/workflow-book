@@ -24,5 +24,17 @@ choco install googlechrome
 brew install Caskroom/cask/google-chrome
 ```
 
+## 开发者工具
+
+检查
+
+Windows：ctrl + shift + I
+
+控制台
+
+alt + command + J
+
+
+
 
 
