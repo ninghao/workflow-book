@@ -150,5 +150,51 @@ npm uninstall 包的名字 --save-dev
 yarn remove 包的名字
 ```
 
+## 练习
 
+打开命令行界面，进入到桌面上，然后去创建一个项目：
+
+```
+cd ~/desktop
+mkdir ninghao-project
+cd ninghao-project
+```
+
+先初始化一下：
+
+```
+npm init -y
+```
+
+也可以使用 Yarn：
+
+```
+yarn init -y
+```
+
+为项目安装一个叫 [Browsersync](https://ninghao.net/course/2672?a=51729) 的包，它可以为项目创建本地服务器，这个包可以作为项目的开发依赖。执行：
+
+```
+npm install browser-sync --save-dev
+```
+
+用 Yarn 的话应该像这样：
+
+```
+yarn add browser-sync --dev
+```
+
+在项目下面添加一个 index.html ，里面可以随便添加点内容。
+
+```
+echo 'hello' >> index.html
+```
+
+然后运行一下：
+
+```
+./node_modules/.bin/browser-sync start --server
+```
+
+一切正常的话，你应该会在浏览器上看到项目下面的 index.html 文档里的内容，显示内容用的服务器就是用 Browsersync 创建的。
 
