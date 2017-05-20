@@ -48,7 +48,7 @@ choco info 包的名字
 
 也可以在线查看能用 Chocolatey 安装的包：
 
-https://chocolatey.org/packages
+[https://chocolatey.org/packages](https://chocolatey.org/packages)
 
 确定是要安装的包，执行：
 
@@ -108,4 +108,10 @@ rsync --help
 ```
 
 这次就会返回 rsync 这个工具的帮助信息，说明已经在系统上成功的安装了这个工具。
+
+---
+
+1. [Chocolatey 视频](https://ninghao.net/video/4615)，来自《我的工作流程：Windows》
+
+
 
