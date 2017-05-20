@@ -55,7 +55,9 @@ brew uninstall 包的名字
 -bash: wget: command not found
 ```
 
-会返回 command not found，系统上没这玩意。wget 可以在命令行界面下去下载网上的东西。现在我们打算用 Homebrew 去安装一下在系统上不存在的 wget ，先搜索一下看看能不能用 Homebrew 安装它：
+会返回 command not found，系统上没这玩意。wget 可以在命令行界面下去下载网上的东西。
+
+现在我们打算用 Homebrew 去安装一下在系统上不存在的 wget ，先搜索一下看看能不能用 Homebrew 安装它：
 
 ```
 brew search wget
