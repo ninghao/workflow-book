@@ -4,7 +4,7 @@ Homebrew 是用在 macOS 上的系统包管理工具。
 
 [https://brew.sh/](https://brew.sh/)
 
-### 安装
+## 安装
 
 打开系统自带的终端工具，然后执行：
 
@@ -19,6 +19,8 @@ Homebrew 是用在 macOS 上的系统包管理工具。
 ```
 brew --help
 ```
+
+## 使用
 
 
 
