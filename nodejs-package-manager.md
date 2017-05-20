@@ -130,6 +130,10 @@ yarn add 包的名字
 yarn add 包的名字 --dev
 ```
 
+### node\_modules
+
+安装的包你都可以在 `node_modules` 目录下面找到。
+
 ### 移除依赖
 
 使用 npm：
