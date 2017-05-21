@@ -15,7 +15,7 @@
 
 ## 编辑器
 
-* [编辑器](bian-ji-qi.md)
+* [编辑器](editor.md)
 * [Atom](atom.md)
 
 ## 浏览器
