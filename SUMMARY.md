@@ -4,6 +4,7 @@
 
 * [介绍](README.md)
 * [任务](task.md)
+* [浏览器](liu-lan-qi.md)
 
 ## 准备
 
@@ -20,7 +21,6 @@
 
 ## 浏览器
 
-* [浏览器](browser.md)
 * [Chrome](chrome.md)
 
 ## 系统包管理
