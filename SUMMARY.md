@@ -4,6 +4,7 @@
 
 * [介绍](README.md)
 * [任务](task.md)
+* [编辑器](bian-ji-qi.md)
 
 ## 准备
 
