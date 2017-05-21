@@ -4,7 +4,6 @@
 
 * [介绍](README.md)
 * [任务](task.md)
-* [编辑器](bian-ji-qi.md)
 
 ## 准备
 
@@ -16,7 +15,7 @@
 
 ## 编辑器
 
-* [编辑器](editor.md)
+* [编辑器](bian-ji-qi.md)
 * [Atom](atom.md)
 
 ## 浏览器
